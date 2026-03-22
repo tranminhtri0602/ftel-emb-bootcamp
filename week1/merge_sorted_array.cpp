@@ -65,4 +65,6 @@ int main()
     }
     m = m + n;
     cout << "}; " << "m = " << m << endl;
+
+    return 0;
 }
