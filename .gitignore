@@ -54,5 +54,5 @@ dkms.conf
 # debug information files
 *.dwo
 
-# ignore files without extension (Linux executables)
-*[^.]*
+# build folder
+build/
